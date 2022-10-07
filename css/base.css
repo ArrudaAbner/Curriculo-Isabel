@@ -1,0 +1,15 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    user-select: none;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-row {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+}
