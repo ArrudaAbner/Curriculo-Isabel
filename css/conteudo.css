@@ -1,12 +1,12 @@
 .main {
     color: #000000;
-    height: 59.5rem;
+    height: 58.9rem;
     width: 875px;
 }
 
 .conteudo__nome-container {
     align-items: center;
-    background-image: linear-gradient(to right bottom, #800024, #901830, #a1283c, #b13848, #c24655);
+    background: #800024;
     color: #ffffff;
     padding: 30px;
     width: calc(95% - 30px);
@@ -48,6 +48,7 @@
 }
 
 .conteudo__titulo-section {
+    color: #800024;
     font-size: 18px;
     font-weight: 700;
     text-transform: uppercase;
@@ -70,7 +71,7 @@
 }
 
 .text__link {
-    color: #800024;
+    color: #c24655;
     text-decoration: none;
     font-weight: 700;
     transition: .2s all ease-in-out;

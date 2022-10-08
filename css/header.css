@@ -1,12 +1,12 @@
 .header {
-    margin: 1rem;
+    margin: 1rem .5rem 1rem 1rem;
     width: calc(40% - 1rem - 10px);
 }
 
 /*height: calc(50.25rem - 1rem);*/
 .header__container {
     color: #ffffff;
-    background-image: linear-gradient(to right bottom, #800024, #901830, #a1283c, #b13848, #c24655);
+    background: #800024;
     margin-right: none;
     padding: 10px;
     transition: .2s all ease-in-out;
@@ -56,7 +56,7 @@
     align-items: center;
     font-size: 1rem;
     margin-left: 5.625rem;
-    padding: .3rem 0;
+    padding: .210rem 0;
     text-align: justify;
 }
 
